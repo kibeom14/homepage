@@ -1,4 +1,3 @@
-## Portfolio
 
 ---
 
@@ -11,7 +10,8 @@
 
 ### Education
 
-- 2018-2021 **Seoul National University** B.S. in Mathematical Sciences
+- 2018-2021 **Seoul National University** 
+  - B.S. in Mathematical Sciences
 ---
 ---
 

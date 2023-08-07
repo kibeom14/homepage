@@ -1,8 +1,10 @@
 title: Kibeom Myoung
 logo: "/images/white_background.png?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Hello! I'm a researcher in Mathematical Sciences at Seoul National University, advised by prof. <a href="https://ernestryu.com/"> Ernest Ryu</a>. I study Deep Learning Theory.
-  <br><br>
+  Hello! I'm a researcher in Mathematical Sciences at Seoul National University, advised by prof. <a href="https://ernestryu.com/"> Ernest Ryu</a>. 
+  <br/>
+  I study Deep Learning Theory.
+  <br/>
   <a href="www.linkedin.com/in/kibeom-myoung-6321a4257"> LinkedIn </a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
