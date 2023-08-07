@@ -1,11 +1,9 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Kibeom Myoung
+logo: "/images/white_background.jpg?raw=true" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Hello! I'm a researcher in Mathematical Sciences at Seoul National University, advised by prof. <a href="https://ernestryu.com/"> Ernest Ryu</a>. I study Deep Learning Theory.
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="www.linkedin.com/in/kibeom-myoung-6321a4257"> LinkedIn </a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
